@@ -1,3 +1,3 @@
-1. Intrusction part1
-2. intsruction part2
-3. instruction part 3
+1. 
+2. Intsruction part2
+3. Instruction part3
